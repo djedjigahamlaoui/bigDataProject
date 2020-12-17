@@ -1,1 +1,1 @@
-select lastname from students where name like 'djedjiga%';
+select lastname, zipcode from students where name like 'djedjiga%';
